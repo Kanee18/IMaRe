@@ -16,50 +16,6 @@ Perfect for digital artists, designers, and anyone who needs to organize and ref
 
 ---
 
-##  Features
-
-###  **Space Management**
-- Create multiple workspaces (Spaces) to organize different projects
-- Drag-and-drop to reorder spaces
-- Rename and delete spaces easily
-- Each space maintains its own set of images and drawings
-
-###  **Image Handling**
-- **Drag and drop** images from:
-  - Local files (JPG, PNG, etc.)
-  - Web browsers (direct image URLs)
-- **Pan and zoom** - infinite canvas for unlimited workspace
-- **Resize images** - adjust image size directly on canvas
-- **Move images** - position anywhere you want
-- **Toggle visibility** - hide/show specific images
-- Images automatically named for easy tracking
-
-###  **Drawing Tools**
-- **Pencil tool** - draw annotations and sketches
-- **Eraser tool** - remove unwanted marks
-- Adjustable brush sizes
-- Color picker for pencil
-- **Undo/Redo** support (Ctrl+Z / Ctrl+Y)
-- Drawings persist with each space
-
-###  **Auto-Save**
-- All changes automatically saved
-- No need to manually save your work
-- Data persists across application restarts
-
-###  **Auto-Update**
-- Automatic update notifications
-- Download and install updates with one click
-- Always stay up-to-date with the latest features
-
-###  **Modern UI**
-- Clean, dark-themed interface
-- Smooth animations and transitions
-- Keyboard shortcuts for quick actions
-- Fullscreen mode (F11)
-
----
-
 ##  Installation
 
 ### Download
