@@ -16,15 +16,15 @@ Perfect for digital artists, designers, and anyone who needs to organize and ref
 
 ---
 
-## ✨ Features
+##  Features
 
-### 📁 **Space Management**
+###  **Space Management**
 - Create multiple workspaces (Spaces) to organize different projects
 - Drag-and-drop to reorder spaces
 - Rename and delete spaces easily
 - Each space maintains its own set of images and drawings
 
-### 🖼️ **Image Handling**
+###  **Image Handling**
 - **Drag and drop** images from:
   - Local files (JPG, PNG, etc.)
   - Web browsers (direct image URLs)
@@ -34,7 +34,7 @@ Perfect for digital artists, designers, and anyone who needs to organize and ref
 - **Toggle visibility** - hide/show specific images
 - Images automatically named for easy tracking
 
-### ✏️ **Drawing Tools**
+###  **Drawing Tools**
 - **Pencil tool** - draw annotations and sketches
 - **Eraser tool** - remove unwanted marks
 - Adjustable brush sizes
@@ -42,17 +42,17 @@ Perfect for digital artists, designers, and anyone who needs to organize and ref
 - **Undo/Redo** support (Ctrl+Z / Ctrl+Y)
 - Drawings persist with each space
 
-### 💾 **Auto-Save**
+###  **Auto-Save**
 - All changes automatically saved
 - No need to manually save your work
 - Data persists across application restarts
 
-### 🔄 **Auto-Update**
+###  **Auto-Update**
 - Automatic update notifications
 - Download and install updates with one click
 - Always stay up-to-date with the latest features
 
-### 🎨 **Modern UI**
+###  **Modern UI**
 - Clean, dark-themed interface
 - Smooth animations and transitions
 - Keyboard shortcuts for quick actions
@@ -60,7 +60,7 @@ Perfect for digital artists, designers, and anyone who needs to organize and ref
 
 ---
 
-## 📥 Installation
+##  Installation
 
 ### Download
 1. Go to [Releases](https://github.com/Kanee18/IMaRe/releases/latest)
@@ -75,7 +75,7 @@ Perfect for digital artists, designers, and anyone who needs to organize and ref
 
 ---
 
-## 🚀 Quick Start
+##  Quick Start
 
 1. **Create a Space** - Click the `+` button in the sidebar
 2. **Add Images** - Drag and drop images from your file explorer or browser
@@ -85,7 +85,7 @@ Perfect for digital artists, designers, and anyone who needs to organize and ref
 
 ---
 
-## 🎮 Keyboard Shortcuts
+##  Keyboard Shortcuts
 
 | Shortcut | Action |
 |----------|--------|
@@ -99,7 +99,7 @@ Perfect for digital artists, designers, and anyone who needs to organize and ref
 
 ---
 
-## 🛠️ Built With
+##  Built With
 
 - **Electron** - Cross-platform desktop framework
 - **React** - UI framework
@@ -112,13 +112,13 @@ Perfect for digital artists, designers, and anyone who needs to organize and ref
 
 ---
 
-## 📸 Screenshots
+##  Screenshots
 
 > *Coming soon - Will add screenshots in the next update*
 
 ---
 
-## 🔄 Updates
+##  Updates
 
 The app automatically checks for updates when launched. When a new version is available:
 1. A notification appears in the bottom-right corner
@@ -127,28 +127,22 @@ The app automatically checks for updates when launched. When a new version is av
 
 ---
 
-## 📝 Changelog
+##  Changelog
 
 ### v0.0.1 (Initial Release)
-- ✨ Multiple workspace management
-- 🖼️ Image drag-and-drop support
-- ✏️ Drawing tools (pencil & eraser)
-- 👁️ Image visibility toggle
-- 💾 Auto-save functionality
-- 🔄 Auto-update system
-- 🎨 Modern dark-themed UI
+-  Multiple workspace management
+-  Image drag-and-drop support
+-  Drawing tools (pencil & eraser)
+-  Image visibility toggle
+-  Auto-save functionality
+-  Auto-update system
+-  Modern dark-themed UI
 
 ---
 
-## 🐛 Known Issues
+##  Known Issues
 
 - Code signing not implemented yet (Windows may show a warning on first run - this is normal for unsigned apps)
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License.
 
 ---
 
@@ -159,12 +153,12 @@ This project is licensed under the MIT License.
 
 ---
 
-## 🙏 Support
+##  Support
 
 If you find this app useful, please consider:
-- ⭐ Starring this repository
-- 🐛 Reporting bugs via [Issues](https://github.com/Kanee18/IMaRe/issues)
-- 💡 Suggesting features
+-  Starring this repository
+-  Reporting bugs via [Issues](https://github.com/Kanee18/IMaRe/issues)
+-  Suggesting features
 
 ---
 
