@@ -1,4 +1,4 @@
-# IMaRe - Image Reference Manager
+# IMaRe 
 
 <div align="center">
 
