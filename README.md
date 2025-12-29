@@ -20,7 +20,7 @@ Perfect for digital artists, designers, and anyone who needs to organize and ref
 
 ### Download
 1. Go to [Releases](https://github.com/Kanee18/IMaRe/releases/latest)
-2. Download `IMaRe-v0.0.0-win-portable.zip`
+2. Download `IMaRe-v1.2.2`
 
 
 **That's it!** No complicated installation process required.
