@@ -64,47 +64,6 @@ Perfect for digital artists, designers, and anyone who needs to organize and ref
 
 ---
 
-##  Screenshots
-
-> *Coming soon - Will add screenshots in the next update*
-
----
-
-##  Updates
-
-The app automatically checks for updates when launched. When a new version is available:
-1. A notification appears in the bottom-right corner
-2. The update downloads automatically
-3. Click "Restart & Update" to install
-
----
-
-##  Changelog
-
-### v0.0.1 (Initial Release)
--  Multiple workspace management
--  Image drag-and-drop support
--  Drawing tools (pencil & eraser)
--  Image visibility toggle
--  Auto-save functionality
--  Auto-update system
--  Modern dark-themed UI
-
----
-
-##  Known Issues
-
-- Code signing not implemented yet (Windows may show a warning on first run - this is normal for unsigned apps)
-
----
-
-## 👨‍💻 Developer
-
-**Kanee18**
-- GitHub: [@Kanee18](https://github.com/Kanee18)
-
----
-
 ##  Support
 
 If you find this app useful, please consider:
