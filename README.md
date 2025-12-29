@@ -10,7 +10,7 @@
 
 Perfect for digital artists, designers, and anyone who needs to organize and reference multiple images while working.
 
-[⬇️ Download Latest Release](https://github.com/Kanee18/IMaRe/releases/latest)
+[⬇️ Download Latest Release](https://github.com/Kanee18/IMaRe/releases/tag/v1.2.2)
 
 </div>
 
