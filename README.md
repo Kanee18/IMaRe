@@ -23,7 +23,6 @@ Perfect for digital artists, designers, and anyone who needs to organize and ref
 2. Download `IMaRe-v1.2.2`
 
 
-**That's it!** No complicated installation process required.
 
 ---
 
