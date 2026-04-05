@@ -22,18 +22,6 @@ Perfect for digital artists, designers, and anyone who needs to organize and ref
 1. Go to [Releases](https://github.com/Kanee18/IMaRe/releases/latest)
 2. Download `IMaRe-v2.0.0`
 
-
-
----
-
-##  Quick Start
-
-1. **Create a Space** - Click the `+` button in the sidebar
-2. **Add Images** - Drag and drop images from your file explorer or browser
-3. **Organize** - Move, resize, and arrange images on the infinite canvas
-4. **Draw** - Use the drawing tools to annotate or sketch
-5. **Toggle Visibility** - Click the eye icon next to images in the sidebar to hide/show them
-
 ---
 
 ##  Keyboard Shortcuts
