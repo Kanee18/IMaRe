@@ -6,9 +6,9 @@
 ![Platform](https://img.shields.io/badge/platform-Windows-lightgrey.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 
-![Preview](preview.png)
-
 **A powerful desktop application for managing reference images with an infinite canvas and drawing tools.**
+
+![Preview](preview.png)
 
 Perfect for digital artists, designers, and anyone who needs to organize and reference multiple images while working.
 
